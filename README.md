@@ -1,5 +1,13 @@
 # Spotify-Clone
 
+# Features
+1. Using This Sites We can easily play Songs
+2. we can create as many albums as needed
+3. whenever we select any albums different songs will be loaded in the playlist and automatically play the first song
+4. we can change the songs using previous and next buttons
+5. we can mute the song
+6. we can increase the volume of the song
+7. whenever the site go into responsive mode the playlist section automatically hides and to open the the playlist section we add a hamburger feature
 
 # Normal Desktop view -->>
 
