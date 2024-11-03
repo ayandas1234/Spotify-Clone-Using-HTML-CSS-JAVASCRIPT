@@ -1,4 +1,4 @@
 # Spotify-Clone
 
 
-# output
+# Normal Desktop view
