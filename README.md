@@ -34,6 +34,10 @@
 ## 🎥 Video
 
 
+https://github.com/user-attachments/assets/ac4469fe-950a-42b8-a29b-df8d37f55386
+
+
+
 
 ## 👏 Acknowledgments
 This project was inspired by Spotify Music Play UI and built to hone skills in HTML5, CSS & JavaScript.
